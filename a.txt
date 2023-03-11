@@ -3,4 +3,8 @@ Third text
 Fourth text
 fifth text
 sixth text
+<<<<<<< HEAD
 seventh commit
+=======
+eighth text
+>>>>>>> d938e3169d837414997539340433dc8365b542ed
